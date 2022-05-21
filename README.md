@@ -2,14 +2,12 @@
 
 A portfolio single page application using React and Material UI
 
-### Demo of this site available here [Material-UI-Portfolio Demo](https://materialui-portfolio.netlify.app/)
-
 #### Installing
 
 Clone the repository using following command or download
 
 ```
-git clone https://github.com/devmahmud/material-ui-portfolio.git
+git clone https://github.com/sanimuhammad09/myportfolio-website.git
 ```
 
 #### To install dependency
@@ -57,8 +55,8 @@ Server will be available at http://127.0.0.1:3000 in your browser
 ## Author
 
 <blockquote>
-Mahmudul alam
-Email: expelmahmud@gmail.com
+Sani Muhammad
+Email: muhammadzenqeeth@gmail.com
 </blockquote>
 
 ========Thank You !!!=========
